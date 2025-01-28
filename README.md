@@ -1,3 +1,6 @@
+### 📬 Contact Me:
+- Email: [anthonyadamcalderone@gmail.com](mailto:anthonyadamcalderone@gmail.com)
+
 ### Hi there 👋
 
 My name is Anthony and I'm a passionate Web Developer with expertise in building full-stack applications. I specialize in everything from front-end to back-end, leveraging JavaScript, Python, and other technologies to create seamless user experiences.
