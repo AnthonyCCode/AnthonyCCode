@@ -42,7 +42,7 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
 ### 🚀 My Projects:
 - [tonymovie](https://github.com/AnthonyCCode/Projects/tree/main/tonymovie)
   A responsive Netflix-like UI mockup built with React.js. Utilized React.js for component-based architecture and streamlined UI development.
-  ![tonymovie Screenshot]([https://imgur.com/a/htCSyGL])  
+   ![tonymovie Screenshot]([https://link-to-your-screenshot-image.com/tonymovie.jpg](https://imgur.com/a/htCSyGL)) 
 - 
 
 🌱 I'm currently learning:
