@@ -34,4 +34,7 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
   - ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+🌱 I'm currently learning:
+
+🚀 Current Projects:
 
