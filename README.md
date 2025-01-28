@@ -40,4 +40,4 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
 🌱 I'm currently learning:
 
 🚀 Current Projects:
-
+[Movie Application]((https://github.com/AnthonyCCode/Projects/tree/main/tonymovie)) - Short description of what the project does.
