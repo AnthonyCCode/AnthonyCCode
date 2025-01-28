@@ -3,8 +3,8 @@
 My name is Anthony and I'm a passionate Web Developer with expertise in building full-stack applications. I specialize in everything from front-end to back-end, leveraging JavaScript, Python, and other technologies to create seamless user experiences.
 
 🔧 Technologies & Tools:
-Languages: Python, JavaScript, SQL
-Frameworks and Libraries: Flask, React.js, Node.js
+● Languages: Python, JavaScript, SQL
+● Frameworks and Libraries: Flask, React.js, Node.js
 Web Development: HTML5, CSS3, JavaScript, REST APIs, Flask, WTForms
 Database Management: SQLite, PostgreSQL
 Tools: Git, GitHub
