@@ -42,9 +42,9 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
 ### 🚀 My Projects:
 - [tonymovie](https://github.com/AnthonyCCode/Projects/tree/main/tonymovie)
   A responsive Netflix-like UI mockup built with React.js. Utilized React.js for component-based architecture and streamlined UI development. 
-- 
+- AIBudgetPlanner: Using AI to plan budget's based on User's Plan. React.js/Python
+  (Currently WIP)
 
-🌱 I'm currently learning:
 
 
 
