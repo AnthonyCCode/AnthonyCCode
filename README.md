@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-My name is Anthony and I'm a passionate Web Developer with expertise in building full-stack applications. I specialize in everything from front-end to back-end, leveraging JavaScript, Python, and other technologies to create seamless user experiences.
+My name is Anthony and I'm a passionate Web Developer with expertise in building web applications. I specialize in everything from front-end to back-end, leveraging JavaScript, Python, and other technologies to create seamless user experiences.
 
 ### 🔧 Technologies & Tools:
 - **Languages**:
