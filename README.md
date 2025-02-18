@@ -44,7 +44,7 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
   A responsive Netflix-like UI mockup built with React.js. Utilized React.js for component-based architecture and streamlined UI development. 
 - [AIBudgetPlanner](https://github.com/AnthonyCCode/Projects/tree/main/budget-planner)
   Using AI to plan budget's based on User's Plan. React.js/Python
-  (Currently WIP)
+- [Text Translation as a Chrome Extension](https://github.com/AnthonyCCode/Projects/tree/main/texttranslation)
 
 
 
