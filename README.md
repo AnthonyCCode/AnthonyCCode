@@ -45,6 +45,7 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
 - [AIBudgetPlanner](https://github.com/AnthonyCCode/Projects/tree/main/budget-planner)
   Using AI to plan budget's based on User's Plan. React.js/Python
 - [Text Translation as a Chrome Extension](https://github.com/AnthonyCCode/Projects/tree/main/texttranslation)
+  Developed a Chrome extension using React and Flask for real-time text translation, enabling seamless language conversion within the browser.
 
 
 
