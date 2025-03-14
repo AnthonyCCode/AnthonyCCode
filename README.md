@@ -1,7 +1,7 @@
 ### 📬 Contact Me:
 - Portfolio: [acalderone.com](https://acalderone.com)
 - Email: [anthonyadamcalderone@gmail.com](mailto:anthonyadamcalderone@gmail.com)
-- CV: [CV Anthony C 2025](https://drive.google.com/file/d/15gaU6YIaz4_0Rp5kyzh7MP2_oYIYAWo_/view?usp=sharing)
+- CV: [Anthony C 2025](https://drive.google.com/file/d/15gaU6YIaz4_0Rp5kyzh7MP2_oYIYAWo_/view?usp=sharing)
 
 ### Hi there 👋
 
