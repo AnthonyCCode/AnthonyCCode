@@ -1,4 +1,5 @@
 ### 📬 Contact Me:
+- Portfolio: [acalderone.com](https://acalderone.com)
 - Email: [anthonyadamcalderone@gmail.com](mailto:anthonyadamcalderone@gmail.com)
 
 ### Hi there 👋
@@ -37,8 +38,6 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
   - ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
- (Portfolio)
- 
 ### 🚀 My Projects:
 - [AIBudgetPlanner](https://github.com/AnthonyCCode/Projects/tree/main/budget-planner)
   Using AI to plan budget's based on User's Plan using React and Python.
