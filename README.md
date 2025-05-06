@@ -28,11 +28,18 @@ My name is Anthony and I'm a passionate Web Developer with expertise in building
 - **Database Management**:
   - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-- **Tools**:
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
+
+- **IT Tools**:
+  - ![Git / GitHub](https://img.shields.io/badge/Git__GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=web&logoColor=white)
+  - ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+ 
+- **Additional Skills**:
+  - ![Networking basics (TCP/IP)](https://img.shields.io/badge/Networking_basics__TCP/IP-008080?style=for-the-badge&logo=internet-explorer&logoColor=white)
+  - ![Troubleshooting and IT support](https://img.shields.io/badge/Troubleshooting__and__IT__support-00A4D4?style=for-the-badge&logo=windows&logoColor=white)
+  - ![Systems integration and backend development](https://img.shields.io/badge/Systems__integration__and__backend__development-6DB33F?style=for-the-badge&logo=python&logoColor=white)
+  - ![Automation using Python scripts](https://img.shields.io/badge/Automation__using__Python__scripts-306998?style=for-the-badge&logo=python&logoColor=white)
+    
 - **Other**:
   - ![UX/UI Design](https://img.shields.io/badge/UX--UI_Design-FF6F00?style=for-the-badge&logo=adobe&logoColor=white)
   - ![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=websockets&logoColor=white)
