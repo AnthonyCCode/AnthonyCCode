@@ -47,13 +47,13 @@ I’m Anthony, a Web Developer with a strong background in full-stack developmen
 
 ### 🚀 My Projects:
 - [AIBudgetPlanner](https://github.com/AnthonyCCode/Projects/tree/main/budget-planner)
-  Using AI to plan budget's based on User's Plan using React and Python.
+  Developed a smart budgeting app powered by AI to categorize expenses and generate personalized budget plans based on user inputs. Built with React.js for the front-end and Python for the back-end.
   
 - [Text Translation Chrome Extension](https://github.com/AnthonyCCode/Projects/tree/main/texttranslation)
-  Developed a Chrome extension using React and Python that enables users to translate text directly from their browser. The extension integrates with a backend translation API, providing seamless multilingual support.
+  Created a Chrome extension using React.js and Python that allows users to translate text directly from their browser. Integrated a backend translation API for multilingual support, enhancing user experience with real-time translation.
   
 - [tonymovie](https://github.com/AnthonyCCode/Projects/tree/main/tonymovie)
-A responsive Netflix-like UI mockup built with React.js. Utilized React.js for component-based architecture and streamlined UI development. 
+  Developed a responsive Netflix-inspired UI mockup using React.js, leveraging component-based architecture to ensure scalability and enhance user experience. Integrated dynamic features such as search and filters.
 
 
 
