@@ -1,6 +1,7 @@
 ### 📬 Contact Me:
 - Portfolio: [acalderone.com](https://acalderone.com)
 - Email: [anthonyadamcalderone@gmail.com](mailto:anthonyadamcalderone@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aanthony-calderone/)
 
 ### Hi there 👋
 
